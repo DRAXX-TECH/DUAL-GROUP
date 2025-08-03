@@ -76,6 +76,20 @@ nav a:hover {
 .hero-content img{
     margin-top: 50px;
 }
+.hero-content h4{
+    margin-top: 30px;
+    margin-bottom: 20px;
+   
+}
+.hero-content h4 span{
+    color: white;
+    border-left: 4px solid #d89e00;
+    border-bottom: 4px solid #d89e00;
+    border-top: 4px solid #000000;
+    border-right: 4px solid rgb(2, 2, 1);
+    padding: 10px;
+    border
+}
 .hero-content h1 {
     font-size: 100px;
     color: #d89e00;
