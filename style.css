@@ -292,7 +292,7 @@ footer p {
         flex-direction: column;
         position: absolute;
         background-color: #000;
-        top: 150px;
+        top: 100px;
         padding-left: 20px;
         right: 0;
         height: 100vh;
@@ -354,6 +354,9 @@ footer p {
 
 }
 @media (max-width:400px){
+    .hero-content{
+        padding-top: 70px;
+    }
     .logo-img {
         max-width: 90px;
     }
