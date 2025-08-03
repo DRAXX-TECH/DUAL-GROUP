@@ -73,6 +73,9 @@ nav a:hover {
     color: #fff;
     padding: 0 2rem;
 }
+.hero-content img{
+    margin-top: 50px;
+}
 .hero-content h1 {
     font-size: 100px;
     color: #d89e00;
@@ -332,6 +335,16 @@ footer p {
     }
 
 }
+@media (max-width:400px){
+    .logo-img {
+        max-width: 90px;
+    }
+    .hero-content img{
+        width: 80px;
+        height: 80px;
+    }
+}
+
 nav ul.active{
     display: flex;
 }
