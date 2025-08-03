@@ -343,6 +343,11 @@ footer p {
     .lumi{
         flex-direction: column;
     }
+    .image{
+        width: 300px;
+        height: 300px;
+        overflow: hidden;
+    }
     .image img{
         width: 450px;
     }
@@ -355,6 +360,9 @@ footer p {
     .hero-content img{
         width: 80px;
         height: 80px;
+    }
+    .hero-content h4{
+        font-size: 14px;
     }
 }
 
